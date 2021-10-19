@@ -105,6 +105,10 @@ export default class Carro extends Model {
           },
         },
       },
+      status: {
+        type: Sequelize.STRING,
+        defaultValue: 'disponivel',
+      },
     }, {
       sequelize,
     });
