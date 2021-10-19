@@ -9,4 +9,10 @@
   <li>PostgreSQL</li>
 </ul>
 
+<h3>Principais funcionalidades:</h3>
+<ul>
+  <li>CRUD completo de usários</li>
+  <li>CRUD completo de carros</li>
+  <li>Separção de privilégios para SUPERUSER a partir de middlewares</li>
+</ul>
 <h3>Projeto sendo desenvolvido com arquitetura MVC</h3>.
